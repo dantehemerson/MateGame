@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1468808425 source:c:\users\chely\pictures\camera roll\mategame\main.cpp
+	<iostream>
+	"gotoxy.h"
+	"tema.h"
+	"menu.h"
+	"opciones.h"
+	"juego.h"
+	"puntajes.h"
+
+1468623582 c:\users\chely\pictures\camera roll\mategame\gotoxy.h
+	<windows.h>
+
+1468811868 c:\users\chely\pictures\camera roll\mategame\menu.h
+	<vector>
+	<string>
+	"raton.cc"
+	"gotoxy.h"
+	"tema.h"
+	"funciones.h"
+
+1468614438 c:\users\chely\pictures\camera roll\mategame\raton.cc
+	<windows.h>
+
+1468807601 c:\users\chely\pictures\camera roll\mategame\tema.h
+	<array>
+	<fstream>
+	"boton.h"
+	"raton.cc"
+	"gotoxy.h"
+
+1468811868 c:\users\chely\pictures\camera roll\mategame\boton.h
+	<string>
+	"gotoxy.h"
+
+1468624535 source:c:\users\chely\pictures\camera roll\mategame\resources.rc
+
+1468789395 c:\users\chely\pictures\camera roll\mategame\opciones.h
+	<iostream>
+	<array>
+	<windows.h>
+	"boton.h"
+	"sonido.h"
+	"tema.h"
+
+1468713163 c:\users\chely\pictures\camera roll\mategame\sonido.h
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1468806613 c:\users\chely\pictures\camera roll\mategame\juego.h
+	"funciones.h"
+	"boton.h"
+	"opciones.h"
+	"gotoxy.h"
+	"sonido.h"
+	"dialogo.h"
+	"puntajes.h"
+
+1468811868 c:\users\chely\pictures\camera roll\mategame\funciones.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"raton.cc"
+	"boton.h"
+	"numero.h"
+
+1468735504 c:\users\chely\pictures\camera roll\mategame\dialogo.h
+	"tema.h"
+
+1468770441 c:\users\chely\pictures\camera roll\mategame\numero.h
+	<iostream>
+	<cstdlib>
+	"gotoxy.h"
+
+1468811142 c:\users\chely\pictures\camera roll\mategame\puntajes.h
+	<fstream>
+	<string>
+	"funciones.h"
+
+1468873249 source:c:\users\chely\pictures\mategame\main.cpp
+	<iostream>
+	<thread>
+	"gotoxy.h"
+	"tema.h"
+	"menu.h"
+	"opciones.h"
+	"juego.h"
+	"puntajes.h"
+
+1468623582 c:\users\chely\pictures\mategame\gotoxy.h
+	<windows.h>
+
+1468807601 c:\users\chely\pictures\mategame\tema.h
+	<array>
+	<fstream>
+	"boton.h"
+	"raton.cc"
+	"gotoxy.h"
+
+1468812850 c:\users\chely\pictures\mategame\boton.h
+	<string>
+	"gotoxy.h"
+
+1468614438 c:\users\chely\pictures\mategame\raton.cc
+	<windows.h>
+
+1468815901 c:\users\chely\pictures\mategame\menu.h
+	<vector>
+	<string>
+	"raton.cc"
+	"gotoxy.h"
+	"tema.h"
+	"funciones.h"
+	"sonido.h"
+
+1468958954 c:\users\chely\pictures\mategame\funciones.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"raton.cc"
+	"boton.h"
+	"numero.h"
+
+1468770441 c:\users\chely\pictures\mategame\numero.h
+	<iostream>
+	<cstdlib>
+	"gotoxy.h"
+
+1468815887 c:\users\chely\pictures\mategame\opciones.h
+	<iostream>
+	<array>
+	<windows.h>
+	"boton.h"
+	"sonido.h"
+	"tema.h"
+
+1468871377 c:\users\chely\pictures\mategame\sonido.h
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1468818514 c:\users\chely\pictures\mategame\juego.h
+	"funciones.h"
+	"boton.h"
+	"opciones.h"
+	"gotoxy.h"
+	"sonido.h"
+	"dialogo.h"
+	"puntajes.h"
+
+1468816207 c:\users\chely\pictures\mategame\dialogo.h
+	"tema.h"
+
+1468851737 c:\users\chely\pictures\mategame\puntajes.h
+	<fstream>
+	<string>
+	"funciones.h"
+
+1468624535 source:c:\users\chely\pictures\mategame\resources.rc
+
+1468873250 source:f:\hemerson\all+\mategame\main.cpp
+	<iostream>
+	<thread>
+	"gotoxy.h"
+	"tema.h"
+	"menu.h"
+	"opciones.h"
+	"juego.h"
+	"puntajes.h"
+
+1468623584 f:\hemerson\all+\mategame\gotoxy.h
+	<windows.h>
+
+1468807602 f:\hemerson\all+\mategame\tema.h
+	<array>
+	<fstream>
+	"boton.h"
+	"raton.cc"
+	"gotoxy.h"
+
+1468812852 f:\hemerson\all+\mategame\boton.h
+	<string>
+	"gotoxy.h"
+
+1468614440 f:\hemerson\all+\mategame\raton.cc
+	<windows.h>
+
+1468815902 f:\hemerson\all+\mategame\menu.h
+	<vector>
+	<string>
+	"raton.cc"
+	"gotoxy.h"
+	"tema.h"
+	"funciones.h"
+	"sonido.h"
+
+1468958956 f:\hemerson\all+\mategame\funciones.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"raton.cc"
+	"boton.h"
+	"numero.h"
+
+1468770442 f:\hemerson\all+\mategame\numero.h
+	<iostream>
+	<cstdlib>
+	"gotoxy.h"
+
+1468871378 f:\hemerson\all+\mategame\sonido.h
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1468815888 f:\hemerson\all+\mategame\opciones.h
+	<iostream>
+	<array>
+	<windows.h>
+	"boton.h"
+	"sonido.h"
+	"tema.h"
+
+1468818516 f:\hemerson\all+\mategame\juego.h
+	"funciones.h"
+	"boton.h"
+	"opciones.h"
+	"gotoxy.h"
+	"sonido.h"
+	"dialogo.h"
+	"puntajes.h"
+
+1468816208 f:\hemerson\all+\mategame\dialogo.h
+	"tema.h"
+
+1468851738 f:\hemerson\all+\mategame\puntajes.h
+	<fstream>
+	<string>
+	"funciones.h"
+
+1468624536 source:f:\hemerson\all+\mategame\resources.rc
+
+1468606536 source:c:\users\dantehemerson\documents\github\mategame\resources.rc
+
+1474223218 source:c:\users\dantehemerson\documents\github\mategame\main.cpp
+	<iostream>
+	<thread>
+	"gotoxy.h"
+	"tema.h"
+	"menu.h"
+	"opciones.h"
+	"juego.h"
+	"puntajes.h"
+
+1468605584 c:\users\dantehemerson\documents\github\mategame\gotoxy.h
+	<windows.h>
+
+1468789602 c:\users\dantehemerson\documents\github\mategame\tema.h
+	<array>
+	<fstream>
+	"boton.h"
+	"raton.cc"
+	"gotoxy.h"
+
+1468794852 c:\users\dantehemerson\documents\github\mategame\boton.h
+	<string>
+	"gotoxy.h"
+
+1468596440 c:\users\dantehemerson\documents\github\mategame\raton.cc
+	<windows.h>
+
+1474223536 c:\users\dantehemerson\documents\github\mategame\menu.h
+	<vector>
+	<string>
+	"raton.cc"
+	"gotoxy.h"
+	"tema.h"
+	"funciones.h"
+	"sonido.h"
+
+1468940956 c:\users\dantehemerson\documents\github\mategame\funciones.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	"raton.cc"
+	"boton.h"
+	"numero.h"
+
+1468752442 c:\users\dantehemerson\documents\github\mategame\numero.h
+	<iostream>
+	<cstdlib>
+	"gotoxy.h"
+
+1468853378 c:\users\dantehemerson\documents\github\mategame\sonido.h
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1474223491 c:\users\dantehemerson\documents\github\mategame\opciones.h
+	<iostream>
+	<array>
+	<windows.h>
+	"boton.h"
+	"sonido.h"
+	"tema.h"
+
+1474223491 c:\users\dantehemerson\documents\github\mategame\juego.h
+	"funciones.h"
+	"boton.h"
+	"opciones.h"
+	"gotoxy.h"
+	"sonido.h"
+	"dialogo.h"
+	"puntajes.h"
+
+1474223491 c:\users\dantehemerson\documents\github\mategame\dialogo.h
+	"tema.h"
+
+1468833738 c:\users\dantehemerson\documents\github\mategame\puntajes.h
+	<fstream>
+	<string>
+	"funciones.h"
+
