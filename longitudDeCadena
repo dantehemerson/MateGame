@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int longitud(char *cad) {
+    int tam = 0;
+    while(cad[tam++]);
+    return tam - 1;
+}
+int main() {
+    char cadena[100];
+    cout << "Cadena ?: ";
+    cin >> cadena;
+    cout << "Su longitud es : " << longitud(cadena) << endl;
+    return 0;
+}
